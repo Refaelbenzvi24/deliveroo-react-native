@@ -8,7 +8,7 @@
 ## Description
 
 This project's a simple client only demo for food oredering app writen with react native and JavaScript. <br/>
-The goal for this project was to learn React Native, this's my first project with React Native. <br/>
+The goal for this project was to learn React Native, this's my first project using React Native. <br/>
 
 ## Running the project
 
